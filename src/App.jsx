@@ -18,7 +18,7 @@ const posts = [
       {
         type: "paragrath",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu portifolio. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
       },
       { type: "link", content: "👉 jane.design/doctorcare" },
     ],
@@ -32,13 +32,13 @@ const posts = [
       role: "Freelancer",
     },
     content: [
-      { type: "paragrath", content: "Fala galeraa 👋" },
+      { type: "paragrath", content: "Consegui 🎉" },
       {
         type: "paragrath",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Muito feliz em compartilhar que agora sou parte do time Microsolft!!!",
       },
-      { type: "link", content: "👉 jane.design/doctorcare" },
+      
     ],
     publishedAt: new Date("2024-01-01 20:00:00"),
   },
